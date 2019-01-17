@@ -34,9 +34,7 @@ body {
 /*------------------------------------------------------------
 # site-header
 ------------------------------------------------------------*/
-.home-page {
-    background: url(../images/middle-cover.jpg) no-repeat;
-}
+
 
 .site-header {
     position: relative;
@@ -341,7 +339,7 @@ body {
 .content-section {
     width: 100%;
     padding-bottom: 120px;
-    background: url("../images/middle-cover.jpg") no-repeat;
+    
     background-size: 100% auto;
 }
 
